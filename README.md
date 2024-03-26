@@ -1,5 +1,5 @@
 ## ![P3R OpenRGB](https://raw.githubusercontent.com/P3R-CO/unraid/master/OpenRGB-P3R-256px.png)
-## P3R OpenRGB
+## P3R OpenRGB - NeySlim updated
 
 RGB software...  Every manufacturer has their own app, their own brand, their own style.  Most of these apps are windows only, and usually only support their own brands hardware.  OpenRGB was developed as a way to bypass this issue, and P3R took the initiative to turn the application into a container for systems operating as hyervisors.  The primary focus of this project was to give users of Unraid OS a way to edit their RGB configurations, with s little effort as necessary.
 
